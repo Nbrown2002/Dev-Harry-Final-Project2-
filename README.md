@@ -1,4 +1,5 @@
 #  <ins> Dev-Harry-Final-Project (Final Exam Schedule Generator) </ins>
 ## Created By Noah Brown (CIS-376-01)
-###  Purpose: To generate a schedule of upcoming final exams.
-#### User Story: As a university student, I will be able to put in the time, date, and class of each exam. Then produce a list in order from the earliest exam to the later exam. 
+###  As a student at the University of North Alabama
+#### I want to be able to have a clear schedule showing the upcoming times, locations, dates, and names of my final exams. 
+##### So that, I can be prepared ahead of time for my final exams and do well on them. 
